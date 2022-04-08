@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @itsMax92
 - 👀 I’m interested in designing web applications and games.
-- 🌱 I’m currently learning javascrip , nodejs , java and sql.
+- 🌱 I’m currently learning java,spring boot, spring security and sql.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me mukulsharma181@gmail.com
 
